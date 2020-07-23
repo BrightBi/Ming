@@ -1,0 +1,6 @@
+logging:
+  level:
+    com.active.services.tax: DEBUG
+    org.kie.api.internal: WARN
+    org.drools: WARN
+    web: TRACE
